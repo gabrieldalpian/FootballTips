@@ -1,4 +1,4 @@
 # Football Tips
 
-![page](tips.png)
-![page](tips2.png)
+![page](FootballTips/tips.png)
+![page](FootballTips/tips2.png)
