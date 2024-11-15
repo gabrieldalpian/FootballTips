@@ -1,0 +1,15 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node_modules (if applicable)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore build folders
+build/
+dist/
